@@ -25,4 +25,7 @@ NER result:“Taylor[B-PER] Swift[I-PER] will[O] launch[O] her[O] new[O] album[O
 In NER, each token in the sentence will get tagged with a label, the label will tell the specific meaning of the token.
 So that, through NER, we can analyze the sentence with more details and extract some important info.
 
+### Data Description
+(https://www.kaggle.com/abhinavwalia95/entity-annotated-corpus?select=ner_dataset.csv)
+
 
